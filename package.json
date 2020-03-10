@@ -1,0 +1,24 @@
+{
+  "name": "digicode-shapes-task",
+  "version": "1.0.0",
+  "description": "pixi shapes game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files '*.js'"
+  },
+  "keywords": [
+    "pixjs",
+    "javascript",
+    "oop",
+    "mvc"
+  ],
+  "author": "Mykhailo Fedorko",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^5.2.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
